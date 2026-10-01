@@ -1,0 +1,15 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# 환경 변수 / OS
+.env
+.DS_Store
+
+# Claude 지침 (개인 작업용)
+CLAUDE.md
